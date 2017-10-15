@@ -7,7 +7,7 @@
             :year 2017
             :key "mit"}
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [claro "0.2.20-SNAPSHOT" :scope "provided"]
+                 [claro "0.2.20" :scope "provided"]
                  [io.github.resilience4j/resilience4j-circuitbreaker "0.10.1"]]
   :profiles {:dev
              {:dependencies [[org.clojure/test.check "0.9.0"]
