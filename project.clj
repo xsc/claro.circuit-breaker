@@ -1,4 +1,4 @@
-(defproject claro/circuit-breaker "0.1.0-SNAPSHOT"
+(defproject claro/circuit-breaker "0.1.0"
   :description "Circuit-breaker middleware for claro execution engines."
   :url "https://github.com/xsc/claro.circuit-breaker"
   :license {:name "MIT License"
